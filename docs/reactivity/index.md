@@ -1,6 +1,6 @@
-### reactivie 整体概览
+### reactive 整体概览
 
-先看一眼官方对 `reactivie` 的定义
+先看一眼官方对 `reactive` 的定义
 
 > This package is inlined into Global & Browser ESM builds of user-facing renderers (e.g. @vue/runtime-dom), but also published as a package that can be used standalone. The standalone build should not be used alongside a pre-bundled build of a user-facing renderer, as they will have different internal storage for reactivity connections. A user-facing renderer should re-export all APIs from this package.
 
